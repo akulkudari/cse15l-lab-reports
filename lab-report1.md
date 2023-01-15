@@ -8,4 +8,4 @@ Once installed, you should see a screen like this:
 I have the dark theme on and I was working on a project earlier so it might not look exactly like this but there should be a "Getting started" page.
 ## Remotely Connecting
 Now that we have VS Code installed, we can get to work on remotely connecting to the server using git bash. The first step is to install  [Git for Windows](https://gitforwindows.org/). \
-Once you have it installed, open a new terminal in VS Code that looks like this [https://github.com/akulkudari/cse15l-lab-reports/blob/main/terminal.png?raw=true]
+Once you have it installed, open a new terminal in VS Code that looks like this [terminal.png](https://raw.githubusercontent.com/akulkudari/cse15l-lab-reports/main/terminal.png)
