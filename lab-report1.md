@@ -38,5 +38,6 @@ cd~ \
 cp /home/linux/ieng6/cs15lwi23/public/hello.txt ~/ \
 cd with a path to a local file 
 \
-
+It should look something like this.
+![commands.png](https://github.com/akulkudari/cse15l-lab-reports/blob/main/commands.png?raw=true)
 
