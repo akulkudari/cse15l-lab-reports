@@ -28,5 +28,15 @@ Are you sure you want to continue connecting (yes/no/[fingerprint])? \
 \
 Just say "yes" for this.\
 \
-Then, you will see the following: \
+Then, you will see something like the following: \
 \
+![terminalsuccess.png](https://github.com/akulkudari/cse15l-lab-reports/blob/main/terminalsuccess.png?raw=true)\
+\
+Once your terminal is up and running try a few commands. Some suggested important commands are: \
+cd \
+cd~ \
+cp /home/linux/ieng6/cs15lwi23/public/hello.txt ~/ \
+cd with a path to a local file 
+\
+
+
