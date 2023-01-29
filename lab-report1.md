@@ -1,8 +1,3 @@
----
-title: Lab Report 1
-layout: Lab Report
-filename: lab-report1.md
---- 
 # Lab Report 1
 Hello incoming CSE15L student! Today we will  be going over how to create a course specific account from ieng6.ucsd.edu, and to log into a remote computer using git bash. 
 ## Account Setup 
