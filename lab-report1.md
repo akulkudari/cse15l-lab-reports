@@ -2,7 +2,7 @@
 Hello incoming CSE15L student! Today we will  be going over how to create a course specific account from ieng6.ucsd.edu, and to log into a remote computer using git bash. 
 ## Account Setup 
 First, you're going to need to set up your account. Go to \
-https://sdacs.ucsd.edu/~icc/index.php \
+[THIS](https://sdacs.ucsd.edu/~icc/index.php) \
 and lookup your account using your TritonLink username and PID. \
 \
 Then, you're going to reset your password to your account following [THIS](https://docs.google.com/document/d/1hs7CyQeh-MdUfM9uv99i8tqfneos6Y8bDU0uhn1wqho/edit) tutorial. The password will take a bit to set in, so feel free to go to the next steps in the meantime.
@@ -15,7 +15,7 @@ I have the dark theme on and I was working on a project earlier so it might not 
 ## Remotely Connecting
 Now that we have VS Code installed, we can get to work on remotely connecting to the server using git bash. The first step is to install  [Git for Windows](https://gitforwindows.org/). \
 Once you have it installed, you need to set VS Code to use the bash terminal, so follow the instructions on [this](https://stackoverflow.com/questions/42606837/how-do-i-use-bash-on-windows-from-the-visual-studio-code-integrated-terminal/50527994#50527994) page.\
-Then, open a new terminal in VS Code that looks like this ![terminal.png](https://raw.githubusercontent.com/akulkudari/cse15l-lab-reports/main/terminal.png)
+Then, open a new terminal in VS Code by clicking the "terminal" button at the top of the window, then navigating to new terminal. You should see a terminal that looks like this ![terminal.png](https://raw.githubusercontent.com/akulkudari/cse15l-lab-reports/main/terminal.png)
 Now we need to remotely connect to the server, so using your ieng6 username you got from the Account Setup step, type in the following to the bash terminal: \
 '-ssh cs15lwi23zz@ieng6.ucsd.edu' \
 \
