@@ -35,11 +35,11 @@ Once your terminal is up and running try a few commands. Some suggested importan
 `cd` \
 this command is used to change the directory, running it by itself will change you into the current directory
 `cd ~` \
-this command will take your directory and set it to the home directory
+this command will take your directory and set it to the home directory\
 `cp /home/linux/ieng6/cs15lwi23/public/hello.txt ~/` \
-cp is a command used to change the path, and using the command with a set path will change you to be in that path
+cp is a command used to change the path, and using the command with a set path will change you to be in that path \
 `cd with a path to a local file ` \
-cd is a command that can be used to change the directory as we stated earlier, if you run it with a path to a local file, it shouldn't run properly because a directory cannot be mapped to a file
+cd is a command that can be used to change the directory as we stated earlier, if you run it with a path to a local file, it shouldn't run properly because a directory cannot be mapped to a file\
 \
 It should look something like this.
 ![commands.png](https://github.com/akulkudari/cse15l-lab-reports/blob/main/commands.png?raw=true)
