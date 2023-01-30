@@ -1,8 +1,7 @@
 # Lab Report 1
 Hello incoming CSE15L student! Today we will  be going over how to create a course specific account from ieng6.ucsd.edu, and to log into a remote computer using git bash. 
 ## Account Setup 
-First, you're going to need to set up your account. Go to \
-[THIS](https://sdacs.ucsd.edu/~icc/index.php) \
+First, you're going to need to set up your account. Go to [this link](https://sdacs.ucsd.edu/~icc/index.php) \
 and lookup your account using your TritonLink username and PID. \
 \
 Then, you're going to reset your password to your account following [THIS](https://docs.google.com/document/d/1hs7CyQeh-MdUfM9uv99i8tqfneos6Y8bDU0uhn1wqho/edit) tutorial. The password will take a bit to set in, so feel free to go to the next steps in the meantime.
