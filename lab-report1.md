@@ -8,13 +8,13 @@ Then, you're going to reset your password to your account following [THIS](https
 The first step in this process is installing and logging into Microsoft Visual Studio Code. You can install VS Code from  [here](https://code.visualstudio.com/).\
 Go to the Visual Studio Code website and follow the instructions to install the software on your system. 
 Once installed, you should see a screen like this: \
-![Screenshot 2023-01-15 084100.png](https://raw.githubusercontent.com/akulkudari/cse15l-lab-reports/adab397c8c831d2a70f789dbb9edd24a421e2a5d/Screenshot%202023-01-15%20084100.png)
+![Screenshot 2023-01-15 084100.png](https://raw.githubusercontent.com/akulkudari/cse15l-lab-reports/adab397c8c831d2a70f789dbb9edd24a421e2a5d/Screenshot%202023-01-15%20084100.png)`{: width="100%" }` 
 
 I have the dark theme on and I was working on a project earlier so it might not look exactly like this but there should be a "Getting started" page.
 ## Remotely Connecting
 Now that we have VS Code installed, we can get to work on remotely connecting to the server using git bash. The first step is to install  [Git for Windows](https://gitforwindows.org/). \
 Once you have it installed, you need to set VS Code to use the bash terminal, so follow the instructions on [this](https://stackoverflow.com/questions/42606837/how-do-i-use-bash-on-windows-from-the-visual-studio-code-integrated-terminal/50527994#50527994) page.\
-Then, open a new terminal in VS Code by clicking the "terminal" button at the top of the window, then navigating to new terminal. You should see a terminal that looks like this ![terminal.png](https://raw.githubusercontent.com/akulkudari/cse15l-lab-reports/main/terminal.png)
+Then, open a new terminal in VS Code by clicking the "terminal" button at the top of the window, then navigating to new terminal. You should see a terminal that looks like this ![terminal.png](https://raw.githubusercontent.com/akulkudari/cse15l-lab-reports/main/terminal.png)`{: width="100%" }` 
 Now we need to remotely connect to the server, so using your ieng6 username you got from the Account Setup step, type in the following to the bash terminal: \
 `-ssh cs15lwi23zz@ieng6.ucsd.edu` \
 \
