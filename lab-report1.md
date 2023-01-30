@@ -21,9 +21,9 @@ Now we need to remotely connect to the server, so using your ieng6 username you 
 Make sure you replace the "zz" part with the unique sequence of characters for your username. You will then be prompted to enter your password, and the characters might not show up when you are typing them, this is normal. If you get a repeat of the password prompt or access denied, and you know you typed the right password, you may just have to wait a bit longer for the password to reset. \
 \
 You might get the following message when trying to login for the first time\
-The authenticity of host 'ieng6.ucsd.edu (128.54.70.227)' can't be established.\
+`The authenticity of host 'ieng6.ucsd.edu (128.54.70.227)' can't be established.\
 RSA key fingerprint is SHA256:ksruYwhnYH+sySHnHAtLUHngrPEyZTDl/1x99wUQcec.\
-Are you sure you want to continue connecting (yes/no/[fingerprint])? \
+Are you sure you want to continue connecting (yes/no/[fingerprint])? `\
 \
 Just say "yes" for this.\
 \
