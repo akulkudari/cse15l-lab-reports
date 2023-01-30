@@ -17,7 +17,7 @@ Now that we have VS Code installed, we can get to work on remotely connecting to
 Once you have it installed, you need to set VS Code to use the bash terminal, so follow the instructions on [this](https://stackoverflow.com/questions/42606837/how-do-i-use-bash-on-windows-from-the-visual-studio-code-integrated-terminal/50527994#50527994) page.\
 Then, open a new terminal in VS Code that looks like this ![terminal.png](https://raw.githubusercontent.com/akulkudari/cse15l-lab-reports/main/terminal.png)
 Now we need to remotely connect to the server, so using your ieng6 username you got from the Account Setup step, type in the following to the bash terminal: \
-ssh cs15lwi23zz@ieng6.ucsd.edu \
+-ssh cs15lwi23zz@ieng6.ucsd.edu \
 \
 Make sure you replace the "zz" part with the unique sequence of characters for your username. You will then be prompted to enter your password, and the characters might not show up when you are typing them, this is normal. If you get a repeat of the password prompt or access denied, and you know you typed the right password, you may just have to wait a bit longer for the password to reset. \
 \
