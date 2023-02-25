@@ -15,4 +15,6 @@ The following was output, and since I already had set up an SSH key for my accou
 Step 5) 
 ![image](https://user-images.githubusercontent.com/122570367/221380947-928d6786-fc90-43c9-b47a-19c65264de31.png) \
 Since I had previously added a github ssh key, I just tested my connection to github by typing the command `ssh -T git@github.com` and pressing `<enter>` \
-The terminal notified me that I was successfully authenticated to github. Then from the github writeup for the 
+The terminal notified me that I was successfully authenticated to github. Then from the github repository for lab7, I copied the ssh key, and in the bash terminal I ran the following command `git clone git@github.com:akulkudari/lab7.git`, and pressed `<enter>`
+![image](https://user-images.githubusercontent.com/122570367/221381396-eec73bc9-2c9e-4758-a184-9177978a3337.png) \
+THis was the terminal output.
