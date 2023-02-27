@@ -18,25 +18,25 @@ Since I had previously added a github ssh key, I just tested my connection to gi
 The terminal notified me that I was successfully authenticated to github. Then from the github repository for lab7, I copied the ssh key, and in the bash terminal I ran the following command `git clone git@github.com:akulkudari/lab7.git`, and pressed `<enter>`
 ![image](https://user-images.githubusercontent.com/122570367/221381396-eec73bc9-2c9e-4758-a184-9177978a3337.png) \
 This was the terminal output.
-## Step 6) \
+## Step 6) 
 In order to run the tests, I executed the command `javac -cp .:lib/hamcrest-core-1.3.jar:lib/junit-4.13.2.jar *.java TestListExamples.java` and hit `<enter>`, then I executed the command `java -cp .:lib/hamcrest-core-1.3.jar:lib/junit-4.13.2.jar org.junit.runner.JUnitCore TestListExamples`. The following was outputted: 
 ![image](https://user-images.githubusercontent.com/122570367/221689569-51725b8b-a136-40f6-bec4-9674877e3257.png)
-## Step 7) \
+## Step 7) 
 in order to fix the code, I ran the following command: \
 `nano ListExamples.java`
 This prompted the following to appear in my terminal: \
 ![image](https://user-images.githubusercontent.com/122570367/221690450-17b11975-f98d-4030-9fa1-8281b6da6df4.png)
-After this appeared, I navigated to the bottom of the terminal using the `<down>` key and holding it, and I found the following error: 
+After this appeared, I navigated to the bottom of the terminal using the `<down>` key and holding it, and I found the following error: \
 ![image](https://user-images.githubusercontent.com/122570367/221690833-012ad7b1-8cc2-4c3e-8aaf-075cd69e724b.png) \
 Instead of it being index1, the correct code should read `index2 += 1`, so I changed it through the terminal by holding the `<right>` arrow key, and deleting the `1`, replacing it with a `2`. The new code was the following:
-![image](https://user-images.githubusercontent.com/122570367/221691603-8e05bef9-3b30-4de3-8538-af1b000c494b.png) \ 
+![image](https://user-images.githubusercontent.com/122570367/221691603-8e05bef9-3b30-4de3-8538-af1b000c494b.png) 
 Since the output reads `OK (2 tests)`, we know that the code works properly now. 
 
-![image](https://user-images.githubusercontent.com/122570367/221690713-3a2210b3-a477-458f-9926-2b4df79f24fd.png) \
-## Step 8) \
+![image](https://user-images.githubusercontent.com/122570367/221690713-3a2210b3-a477-458f-9926-2b4df79f24fd.png) 
+## Step 8) 
 First, I compiled the new `ListExamples.java` file by running the command `javac ListExamples.java` in the bash terminal. Then, I ran the tests once more, to see if the error was fixed now, and I pressed the `<up><up><up>` and `<enter>` keys to do this since I had already ran the tester file in step 6. The following was outputted
 
-## Step 9) \ 
+## Step 9) 
 Lastly, I commited the file and pushed it to my github account. First, I ran the command `git add ListExamples.java` in my bash terminal, and there was no output for this command, but it notifies Git that I want to add a change to that file in the repository. Then, I ran `git commit -m "commit ListExamples.java to the repository for lab7"` to describe what my intention was. This was the output: 
 ![image](https://user-images.githubusercontent.com/122570367/221692778-5d5fb01b-2c44-450c-bf71-055281e5f57b.png) \
 I then ran `git push` to push the changes, and this was the output: 
